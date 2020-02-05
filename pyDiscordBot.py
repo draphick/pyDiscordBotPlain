@@ -17,9 +17,9 @@ async def on_message(message):
 
     if message.content.lower() == "bothelp":
         await client.send_message(message.channel, """Here are all the commands I have:
-        rghelp - Provides this help tool tip.
+        bothelp - Provides this help tool tip.
         dickbutt - Here's a dickbutt picture.
-        rgrps {rock|paper|scissors} - Play rock paper scissorsself. eg `rgrps rock`""")
+        botrps {rock|paper|scissors} - Play rock paper scissorsself. eg `rgrps rock`""")
 
     if message.content.lower().startswith('dickbutt'):
         embed = discord.Embed(description=message.author.mention + " wants you to look at this dick butt.", color=0xFFC0CB)
