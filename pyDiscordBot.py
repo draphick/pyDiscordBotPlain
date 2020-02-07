@@ -4,7 +4,7 @@ import urllib3
 import random
 import os
 
-TOKEN = '__GET_AND_CREATE_A_DISCORD_BOT_TOKEN__'
+# TOKEN = '__GET_AND_CREATE_A_DISCORD_BOT_TOKEN__'
 
 urllib3.disable_warnings()
 client = discord.Client()

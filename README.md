@@ -2,7 +2,7 @@
 This repo contains a python file that allows you to run a discord bot. Currently just being used for training purpose.  Please ignore. :D
 
 # Base Install
-Without giving spelling out the small steps, do this:
+Without spelling out the small steps, do this:
 
 + Install Python
 + Install pip
@@ -27,5 +27,5 @@ Again, without all the inbetween steps written out, do the following:
 No one likes a teacher's pet.
 
 + Add new commands to the discord bot
-+ Join you discord bot to a server
++ Join your discord bot to a server
 + Have someone test and break one of your bot commands
